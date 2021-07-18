@@ -2,7 +2,7 @@
 - 👀 I’m interested in Game Development.
 - 🌱 I’m currently learning Game Development.
 - 💞️ I’m looking to collaborate on Game Project.
-- 📫 How to reach me groundgamesstudio@gmail.com
+- 📫 How to reach me groundgamesstudio@gmail.com.
 
 <!---
 GroundGamesStudio/GroundGamesStudio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
